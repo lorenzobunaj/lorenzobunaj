@@ -153,9 +153,9 @@
     </script>
     <!-- script modules -->
     <script type="module">
-        import CONF from './src/js/conf.js';
-        import SkillSwitch from './src/js/skills.js';
-        import GithubRedirect from './src/js/projects.js';
+        import { CONF } from './src/js/conf.js';
+        import { SkillSwitch } from './src/js/skills.js';
+        import { GithubRedirect } from './src/js/projects.js';
 
         CONF.projects[0].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/eigenkit'})
         CONF.projects[1].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/shorturlfy'})

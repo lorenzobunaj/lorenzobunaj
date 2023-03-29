@@ -9,4 +9,4 @@ const CONF = {
     projects: document.querySelectorAll('.project')
 }
 
-export default CONF;
+export { CONF };

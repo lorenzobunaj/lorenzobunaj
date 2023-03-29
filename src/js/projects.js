@@ -12,4 +12,4 @@ const GithubRedirect = (CONF, prevPos) => {
     }, 100);
 }
 
-export default GithubRedirect;
+export { GithubRedirect };

@@ -7,4 +7,4 @@ const SkillSwitch = (CONF, i) => {
     }
 }
 
-export default SkillSwitch;
+export { SkillSwitch };
