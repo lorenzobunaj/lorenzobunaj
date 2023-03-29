@@ -7,6 +7,7 @@
     <title>Lorenzo Bunaj</title>
 
     <!-- links -->
+    <link rel="icon" type="image/x-icon" href="../src/img/no-border-circle.ico">
     <link href="../src/css/root.css" rel="stylesheet" type="text/css">
 
     <!-- Bootstrap css -->
@@ -25,7 +26,7 @@
 <body class="d-flex align-items-center bg-black">
     <div class="container h-80 w-100">
         <div style="height: 15%;" class="container w-auto d-flex justify-content-center mb-5">
-            <img class="h-100" src="./src/img/logo.png" alt="">
+            <img class="h-100" src="./src/img/border.svg" alt="">
         </div>
         <div id="about" class="container">
             <div id="title" class="row w-100 mx-auto reveal-title">
@@ -153,16 +154,16 @@
     <!-- script modules -->
     <script type="module">
         import CONF from './src/js/conf.js';
-        import SkillSwitch from './src/js/skills';
-        import GithubRedirect from './src/js/projects';
+        import SkillSwitch from './src/js/skills.js';
+        import GithubRedirect from './src/js/projects.js';
 
-        Conf.projects[0].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/shorturlfy'})
-        Conf.projects[1].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/eigenkit'})
+        CONF.projects[0].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/eigenkit'})
+        CONF.projects[1].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/shorturlfy'})
 
         for (let i=0; i<3; i++) {
-            Conf.options[i].addEventListener('click', () => SkillSwitch(Conf, i));
+            CONF.options[i].addEventListener('click', () => SkillSwitch(CONF, i));
         }
-        Conf.github.addEventListener('scroll', () => GithubRedirect(Conf, Conf.redirect.getBoundingClientRect()));
+        CONF.github.addEventListener('scroll', () => GithubRedirect(CONF, CONF.redirect.getBoundingClientRect()));
 
     </script>
 </body>

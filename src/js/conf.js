@@ -1,5 +1,5 @@
 // app config values
-const Conf = {
+const CONF = {
     skillsLevels: document.querySelector('#s-level'),
     skillsLevel: ['Expert', 'Intermediate', 'Basic'],
     skills: document.querySelector('#s-list'),
@@ -9,4 +9,4 @@ const Conf = {
     projects: document.querySelectorAll('.project')
 }
 
-export default Conf;
+export default CONF;
