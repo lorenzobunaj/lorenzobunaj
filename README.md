@@ -23,11 +23,23 @@ I'm currently working on [Eigenkit](https://www.eigenkit.org/).
 </br>
 <div align="center">
 <table>
-  <tr style="border:none;">
-    <td><a href="mailto: lorenzobunaj@gmail.com"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="70" title="Gmail" /></a></td>
-    <td><a href="https://www.linkedin.com/in/lorenzobunaj/"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="70" title="Linkedin" /></a></td>
-    <td><a href="https://telegram.me/lorenzobunaj"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="70" title="Telegram" /></a></td>
-    <td><a href="https://discord.com/users/559093617466015784"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="70" title="Discord" /></a></td>
+  <tr>
+    <td>
+      <a href="mailto: lorenzobunaj@gmail.com"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="70" title="Gmail" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/lorenzobunaj/"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="70" title="Linkedin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://telegram.me/lorenzobunaj"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="70" title="Telegram" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/559093617466015784"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="70" title="Discord" />
+      </a>
+    </td>
   </tr>
 </table>
 </div>
