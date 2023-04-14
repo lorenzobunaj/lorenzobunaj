@@ -9,6 +9,9 @@
 Hi, I’m Lorenzo, I’ve been studying Math, Computer Science and Programming for over 3 years. I've experience in many frameworks, libraries and other technologies, like Matplotlib, Pandas, Numpy, OpenGL, Flask, React, Bootstrap, Git, AWS and others. I consider myself as someone who gets hooked easily and works hard to complete his projects and tasks.
 </p>
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobunaj)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contacts
 
 <table>
