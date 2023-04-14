@@ -11,6 +11,8 @@ Hi, I’m Lorenzo, I’ve been studying Math, Computer Science and Programming f
 I'm currently working on [Eigenkit](https://www.eigenkit.org/).
 
 ## Stats
+
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lorenzobunaj" width="500" />
 </div>
@@ -18,6 +20,7 @@ I'm currently working on [Eigenkit](https://www.eigenkit.org/).
 
 ## Contacts
 
+</br>
 <div align="center">
 <table>
   <tr style="border:none;">
