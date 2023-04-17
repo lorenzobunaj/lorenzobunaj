@@ -33,7 +33,7 @@ I'm currently working on [Eigenkit](https://www.eigenkit.org/).
       </a>
     </td>
     <td>
-      <a href="https://telegram.me/lorenzobunaj"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="70" title="Telegram" />
+      <a href="https://telegram.me/lorenzo2204"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="70" title="Telegram" />
       </a>
     </td>
     <td>
