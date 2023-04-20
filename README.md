@@ -34,29 +34,6 @@ I'm currently working on [Eigenkit](https://www.eigenkit.org/).
 
 ## Contacts
 
-</br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="mailto: lorenzobunaj@gmail.com"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="70" title="Gmail" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/lorenzobunaj/"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="70" title="Linkedin" />
-      </a>
-    </td>
-    <td>
-      <a href="https://telegram.me/lorenzo2204"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="70" title="Telegram" />
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.com/users/559093617466015784"><img style="border:none;" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="70" title="Discord" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <a href="mailto: lorenzobunaj@gmail.com"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lorenzobunaj/"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Linkedin/#0A66C2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://telegram.me/lorenzo2204"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Telegram/#26A5E4" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
