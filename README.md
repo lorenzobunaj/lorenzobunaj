@@ -9,14 +9,14 @@ Hi, I’m Lorenzo, I’ve been studying Math, Computer Science and Programming. 
 </br></br>
 
 I'm currently working on [Eigenkit](https://www.eigenkit.org/).
-
+<!--- 
 ## Stats
-
 </br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lorenzobunaj" width="500" />
 </div>
-</br>
+</br> 
+-->
 
 ## Contacts
 
