@@ -5,7 +5,7 @@
   <img src="https://github.com/lorenzobunaj/lorenzobunaj/blob/main/src/img/border.svg" width="200" />
 </div>
 <br><br>
-Hi, I’m Lorenzo, I’ve been studying Math, Computer Science and Programming. I've experience in many frameworks, libraries and other technologies, like Matplotlib, Pandas, Numpy, OpenGL, Flask, React, Bootstrap, Git, AWS and others. I consider myself as someone who gets hooked easily and works hard to complete his projects and tasks.
+Hi, I'm Lorenzo, I have a background in mathematics, computer science and computer programming. My experience includes different frameworks, libraries and other technologies, such as Matplotlib, Pandas, Numpy, OpenGL, Flask, React, Bootstrap, Git, AWS and others. I consider myself a person who gets passionate easily and works hard to get his projects and tasks done. 
 </br></br>
 
 I'm currently working on [Eigenkit](https://www.eigenkit.org/).
