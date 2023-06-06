@@ -6,6 +6,12 @@
     font-size: 17px;
 }
 
+.social-left a {
+    color: white;
+}
+.social-right a {
+    color: black;
+}
 
 @media only screen and (min-width: 769px) {
     #about #title {
@@ -21,5 +27,13 @@
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
-    } 
+    }
+    #about .social {
+        width: 300px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #about .social {
+        width: 40%;
+    }
 }
