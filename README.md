@@ -22,10 +22,10 @@ I'm currently working on [Eigenkit](https://www.eigenkit.org/).
 
 </br>
 <div align="center">
-<a href="mailto: lorenzobunaj@gmail.com"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lorenzobunaj/"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Linkedin/#0A66C2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://telegram.me/lorenzo2204"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Telegram/#26A5E4" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/559093617466015784"><img height="60px" width="60px" src="https://cdn.simpleicons.org/discord/#5865F2" /></a>
+  <!--<a href="https://telegram.me/lorenzo2204"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Telegram/#26A5E4" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+  <a href="mailto: lorenzobunaj@gmail.com"><img height="60px" width="60px" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
