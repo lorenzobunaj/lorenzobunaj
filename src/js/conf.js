@@ -1,7 +1,7 @@
 // app config values
 const CONF = {
     skillsLevels: document.querySelector('#s-level'),
-    skillsLevel: ['Expert', 'Intermediate', 'Basic'],
+    skillsLevel: ['Advanced', 'Intermediate', 'Beginner'],
     skills: document.querySelector('#s-list'),
     options: document.querySelectorAll('.option'),
     github: document.querySelector('.github-link'),
