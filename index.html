@@ -126,7 +126,7 @@
                     <div class="container w-75 mt-5 rounded project reveal-1">
                         <div class="row h-20 justify-content-center">
                             <p class="h-auto w-auto position-relative px-2 py-1 p-tag">
-                                Shorturlfy
+                                Urlfy
                             </p>
                         </div>
                         <p class="text-right p-description">
@@ -135,7 +135,7 @@
                     </div>
                     <div class="container w-25 mt-4 overflow-scroll github-link reveal-2">
                         <div style="height: 101%;" class="row align-items-start text-center">
-                            <p class="h-50 d-flex justify-content-center align-items-end mb-0 redirect">More</p>
+                            <p class="h-50 d-flex justify-content-center align-items-end mb-0 redirect">Sources</p>
                             <i class="fa-sharp fa-solid fa-angles-down h-50 mt-1"></i>
                         </div>
                     </div>
@@ -189,8 +189,11 @@
         import { SkillSwitch } from './src/js/skills.js';
         import { GithubRedirect } from './src/js/projects.js';
 
-        CONF.projects[0].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/eigenkit'})
-        CONF.projects[1].addEventListener('click', () => {location.href = 'https://github.com/lorenzobunaj/shorturlfy'})
+        //CONF.projects[0].addEventListener('click', () => {location.href = 'https://www.eigenkit.org/'})
+        //CONF.projects[1].addEventListener('click', () => {location.href = 'https://short.urlfy.org/'})
+
+        CONF.projects[0].addEventListener('click', () => {window.open('https://www.eigenkit.org/')})
+        CONF.projects[1].addEventListener('click', () => {window.open('https://short.urlfy.org/')})
 
         for (let i=0; i<3; i++) {
             CONF.options[i].addEventListener('click', () => SkillSwitch(CONF, i));
