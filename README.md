@@ -2,7 +2,7 @@
 
 </br>
 <div align="center">
-  <img src="https://github.com/lorenzobunaj/lorenzobunaj/blob/main/img/border.svg" width="200" />
+  <img src="https://github.com/lorenzobunaj/lorenzobunaj/blob/main/logo.svg" width="200" />
 </div>
 <br><br>
 Hi, I'm Lorenzo, I have a background in mathematics, computer science and computer programming. My experience includes different frameworks, libraries and other technologies, such as Matplotlib, Pandas, Numpy, OpenGL, Flask, React, Bootstrap, Git, AWS and others. I consider myself a person who gets passionate easily and works hard to get his projects and tasks done. 
