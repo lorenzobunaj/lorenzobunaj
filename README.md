@@ -8,7 +8,9 @@
 ## About Me
 
 </br>
-Hi, I'm Lorenzo, I have a background in mathematics, computer science and computer programming. My experience includes different frameworks, libraries and other technologies, such as Matplotlib, Pandas, Numpy, OpenGL, Flask, React, Bootstrap, Git, AWS and others. I consider myself a person who gets passionate easily and works hard to get his projects and tasks done. 
+Hi, I'm Lorenzo, I have a background in mathematics, computer science and computer programming.
+My experience includes frameworks, libraries and other technologies concerning different branches of these disciplines.
+I consider myself a person who gets passionate easily and works hard to get his projects and tasks done.
 </br></br>
 
 I'm currently working on [Eigenkit](https://www.eigenkit.org/).
