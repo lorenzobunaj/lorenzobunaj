@@ -13,8 +13,8 @@ My experience includes frameworks, libraries and other technologies concerning d
 I consider myself a person who gets passionate easily and works hard to get his projects and tasks done.
 </br></br>
 
-I'm currently working on [Eigenkit](https://www.eigenkit.org/).
-</br></br>
+<!-- I'm currently working on [Eigenkit](https://www.eigenkit.org/).
+</br></br> -->
 <!--- 
 ## Stats
 </br>
